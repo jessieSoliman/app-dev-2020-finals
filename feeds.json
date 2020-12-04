@@ -3,60 +3,60 @@
     "name": "Marley Hoover",
     "profile": "https://randomuser.me/api/portraits/men/10.jpg",
     "post": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-    "image": "https://picsum.photos/400/300"
+    "image": "https://picsum.photos/300/300"
   },
   {
     "name": "Montgomery Matthews",
     "profile": "https://randomuser.me/api/portraits/men/79.jpg",
     "post": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "image": "https://picsum.photos/400/300"
+    "image": "https://picsum.photos/300/300"
   },
   {
     "name": "Reilly Washington",
     "profile": "https://randomuser.me/api/portraits/women/40.jpg",
     "post": "Ut enim ad minim veniam",
-    "image": "https://picsum.photos/400/300"
+    "image": "https://picsum.photos/300/300"
   },
   {
     "name": "Johanna French",
     "profile": "https://randomuser.me/api/portraits/women/91.jpg",
     "post": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-    "image": "https://picsum.photos/400/300"
+    "image": "https://picsum.photos/300/300"
   },
   {
     "name": "Kaydee Higgs",
     "profile": "https://randomuser.me/api/portraits/women/64.jpg",
     "post": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur",
-    "image": "https://picsum.photos/400/300"
+    "image": "https://picsum.photos/300/300"
   },
   {
     "name": "Ramone Easton",
     "profile": "https://randomuser.me/api/portraits/men/35.jpg",
     "post": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
-    "image": "https://picsum.photos/400/300"
+    "image": "https://picsum.photos/300/300"
   },
   {
     "name": "Donte Maynard",
     "profile": "https://randomuser.me/api/portraits/men/81.jpg",
     "post": "Vel illum qui dolorem eum fugiat quo voluptas nulla pariatur",
-    "image": "https://picsum.photos/400/300"
+    "image": "https://picsum.photos/300/300"
   },
   {
     "name": "Kimberly Justice",
     "profile": "https://randomuser.me/api/portraits/women/27.jpg",
     "post": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
-    "image": "https://picsum.photos/400/300"
+    "image": "https://picsum.photos/300/300"
   },
   {
     "name": "Sanaa Mata",
     "profile": "https://randomuser.me/api/portraits/women/8.jpg",
     "post": "Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
-    "image": "https://picsum.photos/400/300"
+    "image": "https://picsum.photos/300/300"
   },
   {
     "name": "Vincent Sellers",
     "profile": "https://randomuser.me/api/portraits/men/61.jpg",
     "post": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit",
-    "image": "https://picsum.photos/400/300"
+    "image": "https://picsum.photos/300/300"
   }
 ]
